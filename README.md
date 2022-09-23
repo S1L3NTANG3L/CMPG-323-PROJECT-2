@@ -21,8 +21,6 @@ A pull request to the main branch from the developement branch  only gets made o
 ## Endpoints</br>
 ### Swagger</br>
 https://connectedofficeapi.azurewebsites.net/swagger/index.html
-### Api Management Service
-https://connectedofficeapimanagement.developer.azure-api.net/     *In Developement*</br>
 ### Direct Access
 https://connectedofficeapi.azurewebsites.net/
 ## Steps to using the api
