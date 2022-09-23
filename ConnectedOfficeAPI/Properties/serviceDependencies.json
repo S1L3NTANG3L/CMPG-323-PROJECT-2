@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets",
+      "dynamicId": null
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "dbconn",
+      "dynamicId": null
+    },
+    "apis1": {
+      "type": "apis"
+    },
+    "secrets2": {
+      "type": "secrets",
+      "connectionId": "KVUrl",
+      "dynamicId": null
+    }
+  }
+}

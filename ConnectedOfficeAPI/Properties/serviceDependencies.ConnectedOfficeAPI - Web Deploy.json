@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/33301212/databases/ConnectedOffice",
+      "type": "mssql.azure",
+      "connectionId": "dbconn",
+      "dynamicId": null
+    },
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ConnectedOfficeAPIManagementService/apis/ConnectedOfficeAPI",
+      "type": "apis.azure"
+    }
+  }
+}

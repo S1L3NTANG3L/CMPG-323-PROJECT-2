@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:23691",
+      "sslPort": 44334
+    }
+  },
+  "profiles": {
+    "ConnectedOfficeAPI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7105;http://localhost:5105",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "KVUrl": "https://connectedofficekeyvault.vault.azure.net/",
+        "AZURE_USERNAME": "33301212@student365.msfed.nwu.ac.za"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "KVUrl": "https://connectedofficekeyvault.vault.azure.net/",
+        "AZURE_USERNAME": "33301212@student365.msfed.nwu.ac.za"
+      }
+    }
+  }
+}

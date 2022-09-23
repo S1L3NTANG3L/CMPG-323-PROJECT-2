@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedOfficeAPI", "ConnectedOfficeAPI.csproj", "{DCCCE6C0-D322-4DB6-9C16-31481B3C990F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCCE6C0-D322-4DB6-9C16-31481B3C990F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCCE6C0-D322-4DB6-9C16-31481B3C990F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCCE6C0-D322-4DB6-9C16-31481B3C990F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCCE6C0-D322-4DB6-9C16-31481B3C990F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F212686-AC26-474C-8FCE-A1A46E28C5E3}
+	EndGlobalSection
+EndGlobal
