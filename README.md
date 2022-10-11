@@ -1,5 +1,4 @@
-# CMPG323-PROJECT-2-33301212
-## Connected Office Api
+# Connected Office Api
 The Connected Office Api is an Azure hosted application service that will be the middle man between the external Connected Office database and the outside world and all client side applications.</br>
 ## Functions
 Gives a client application or daemon access to the database to be able to get, update, add or delete entries through http request methods.</br>
